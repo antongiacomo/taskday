@@ -19,7 +19,7 @@ export default defineConfig({
     vue(),
     Components({
       dirs: [
-        path.resolve(__dirname, "../taskday-framework/resources/components"),
+        path.resolve(__dirname, "vendor/taskday/framework/resources/components"),
       ],
       extensions: ["vue"],
       deep: true,

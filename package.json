@@ -58,6 +58,7 @@
         "tippy.js": "^6.3.7",
         "unplugin-vue-components": "^0.18.0",
         "vite-plugin-resolve-externals": "^0.1.0",
+        "vuedraggable": "^2.24.3",
         "vuex": "^4.0.2"
     }
 }
